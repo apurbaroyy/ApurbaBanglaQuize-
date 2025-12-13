@@ -67,34 +67,20 @@ JDBC connectivity
 
 Secure data insertion using PreparedStatement
 🧩 Workflow Overview:
+Home Screen
 <img width="602" height="486" alt="Screenshot 2025-12-12 180748" src="https://github.com/user-attachments/assets/a5b38192-e02d-442e-ba5b-809dcab46f69" />
-🟧 Database Structure
-| Column | Type     | Description              |
-| ------ | -------- | ------------------------ |
-| id     | INT (PK) | Auto increment           |
-| name   | VARCHAR  | Student name             |
-| email  | VARCHAR  | Student email            |
-| q1–q5  | INT      | Individual answers (1/0) |
-| total  | INT      | Final score              |
-🟪 Results & Discussion
+Quiz Question Screen
+<img width="602" height="472" alt="Screenshot 2025-12-12 181030" src="https://github.com/user-attachments/assets/4efe1b68-9dda-4313-ae77-c3ee09fc3c93" />
+<img width="594" height="518" alt="Screenshot 2025-12-12 181111" src="https://github.com/user-attachments/assets/723074d2-6660-433d-8133-d95efbf41dcd" />
+Score Page
+<img width="599" height="486" alt="Screenshot 2025-12-12 181150" src="https://github.com/user-attachments/assets/9f48a77e-d43b-4457-9abc-9166a00f403c" />
+MySQL table data view
+<img width="611" height="489" alt="Screenshot 2025-12-12 182625" src="https://github.com/user-attachments/assets/bc4d1104-8302-4b96-9e8e-b505b46c456b" />
 
-The app successfully provides Bangla-based digital quiz experience.
 
-Smooth UI flow and easy input make it accessible for general users.
 
-Demonstrates strong integration between GUI programming and database operations.
 
-Can be expanded to support:
 
-More questions
-
-Categories
-
-Timer
-
-Online database
-
-MCQ system
 🟫 Conclusion
 
 The Apurba Bangla Quiz App is a complete Java-based educational tool that makes learning interactive for Bangla-speaking users.
@@ -115,10 +101,3 @@ Cloud-hosted backend
 
 Android version using Java/Kotlin
 
-🟦 References
-
-Java Swing Documentation (Oracle)
-
-MySQL JDBC Connector Documentation
-
-GUI Design Principles for Educational Apps
