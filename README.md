@@ -51,6 +51,7 @@ Empty input detection
 Database error notification
 
 User-friendly dialogs
+
 🟫 System Architecture
 
 🧩 Frontend:
