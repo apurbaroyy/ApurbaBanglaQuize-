@@ -75,12 +75,18 @@ Secure data insertion using PreparedStatement
 🧩 Workflow Overview:
 Home Screen
 <img width="602" height="486" alt="Screenshot 2025-12-12 180748" src="https://github.com/user-attachments/assets/a5b38192-e02d-442e-ba5b-809dcab46f69" />
+
 Quiz Question Screen
+
 <img width="602" height="472" alt="Screenshot 2025-12-12 181030" src="https://github.com/user-attachments/assets/4efe1b68-9dda-4313-ae77-c3ee09fc3c93" />
 <img width="594" height="518" alt="Screenshot 2025-12-12 181111" src="https://github.com/user-attachments/assets/723074d2-6660-433d-8133-d95efbf41dcd" />
+
 Score Page
+
 <img width="599" height="486" alt="Screenshot 2025-12-12 181150" src="https://github.com/user-attachments/assets/9f48a77e-d43b-4457-9abc-9166a00f403c" />
+
 MySQL table data view
+
 <img width="611" height="489" alt="Screenshot 2025-12-12 182625" src="https://github.com/user-attachments/assets/bc4d1104-8302-4b96-9e8e-b505b46c456b" />
 
 
