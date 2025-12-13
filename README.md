@@ -1,14 +1,15 @@
 Apurba Bangla Quiz App
+
 🟩 Abstract
 
 This project presents a Bengali-language interactive quiz application built using Java Swing for the GUI and MySQL as the backend database.
 The system allows users to participate in a quiz, store scores, and view previous results.
 The project focuses on usability for native Bangla users and demonstrates GUI programming, event handling, and database connectivity in Java.
+
 🟨 Key Features
 🔶 1. Bengali Language Interface
 
 All UI elements, questions, answers, and messages are fully in Bangla.
-
 Implemented using Noto Sans Bengali & Vrinda fallback fonts.
 
 🔶 2. Multi-Panel Interface (CardLayout)
@@ -51,7 +52,9 @@ Database error notification
 
 User-friendly dialogs
 🟫 System Architecture
+
 🧩 Frontend:
+
 
 Java Swing
 
@@ -61,11 +64,13 @@ JOptionPane dialogs for user inputs
 
 🧩 Backend:
 
+
 MySQL database
 
 JDBC connectivity
 
 Secure data insertion using PreparedStatement
+
 🧩 Workflow Overview:
 Home Screen
 <img width="602" height="486" alt="Screenshot 2025-12-12 180748" src="https://github.com/user-attachments/assets/a5b38192-e02d-442e-ba5b-809dcab46f69" />
